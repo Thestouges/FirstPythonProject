@@ -1,8 +1,6 @@
 class FindPrime:
     foundPrime = 0
-    primevalue = []
-    #def _init_(self):
-        
+    primevalue = []        
     
     def printPrime(self, value):
         for i in range(2,value):
